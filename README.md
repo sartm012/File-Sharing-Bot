@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/github/stars/CodeXBotz/File-Sharing-Bot?style=social">
   </a>
   <a href="https://github.com/CodeXBotz/File-Sharing-Bot/fork">
-    <img src="https://img.shields.io/github/forks/CodeXBotz/File-Sharing-Bot?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/Rtmfile2bot/File-Sharing-Bot?label=Fork&style=social">
   </a>  
 </p>
 
